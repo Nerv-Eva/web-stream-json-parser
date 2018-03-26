@@ -51,10 +51,11 @@
     "npm-run-all": "^4.1.2",
     "rimraf": "^2.6.2",
     "rollup": "^0.57.1",
+    "rollup-plugin-babel": "^3.0.3",
     "rollup-plugin-buble": "^0.19.2",
     "rollup-plugin-flow": "^1.1.1",
     "standard-version": "^4.3.0",
-    "uglify-js": "^3.3.16"
+    "uglify-js": "^2.6.2"
   },
   "eslintConfig": {
     "parser": "babel-eslint",
@@ -73,5 +74,6 @@
         "always"
       ]
     }
-  }
+  },
+  "dependencies": {}
 }
