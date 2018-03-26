@@ -4,7 +4,7 @@
   "name": "web-stream-json-parser",
   "version": "1.0.1",
   "description": "A stream JSON parse based on web stream.",
-  "main": "dist/index.js",
+  "main": "index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
   "umd:main": "dist/stream-parser.umd.js",
