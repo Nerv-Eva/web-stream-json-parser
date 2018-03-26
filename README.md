@@ -47,7 +47,7 @@ parser.on('onColon', () => {
 
 ## EventList
 |    Event   |      Status                   |
-|------------|:-----------------------------:|
+|------------|-------------------------------|
 |   number   |  Found and emit a number.     |
 |   string   |  Found and emit a string.     |
 |   boolean  |  Found and emit a boolean.    |
