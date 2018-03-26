@@ -7,7 +7,7 @@
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
-  "umd:main": "dist/index.umd.js",
+  "umd:main": "dist/stream-parser.umd.js",
   "scripts": {
     "bump": "standard-version",
     "build": "npm-run-all --silent clean -p rollup -p minify:* -s",
